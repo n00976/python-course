@@ -1,0 +1,36 @@
+1. Oblicz koszt wyprawy znaja?c dystans, spalanie na 100km i cene? litra benzyny. Za³ó¿my, ¿e spalanie na 100km wynosi 6,4 l, trasa to 120km, litr benzyny kosztuje 5,04 z³.
+2. Zmodyfikuj skrypt tak, by przyjmowa³ wartoœci od u¿ytkownika.
+operatory logiczne:
+3. Czy 23 + 3 bêdzie siê równaæ 15 + 12 ?
+    Czy dzielenie 29 przez 7 bez reszty wynosi 5?
+    Czy 27 podzielone przez 8 daje resztê 3?
+    Zwróæ wartoœæ True, je¿eli liczba jest parzysta.
+    Czy 43 - 13 bêdzie siê równaæ 11 + 12 ?
+    Czy dzielenie 129 przez 17 bez reszty wynosi 3?
+    Czy 247 podzielone przez 5 daje resztê 2?
+stringi
+4. Stwórz zmienn¹ przechowuj¹c¹ wyraz o d³ugoœci nieparzystej wiêkszej ni¿ 7 i zwróæ ³añcuch z³o¿ony z trzech œrodkowych znaków danego ci¹gu.
+5. Stwórz dwie zmienne s1 i s2 przechowuj¹ce dowolne wyrazy, utwórz nowy ³añcuch s3, do³¹czaj¹c s2 w œrodku s1.
+6. Do zmiennej quote przypisz zdanie: „Honesty is the first chapter in the book of wisdom.”, a nastêpnie:
+    Policz wszystkie znaki w napisie
+    Nie modyfikuj¹c zmiennej wyœwietl s³owo wisdom
+    Wyœwietl tylko pierwsz¹ po³owê tekstu
+    Wyœwietl tylko kropkê
+    Wyœwietl od po³owy tylko co trzeci¹ literê cytatu
+    Wyœwietl ‘Hnsyi h is hpe ntebo fwso.’
+    Wyœwietl ca³y cytat odwrotnie
+    Zamieñ wisdom na s³owo friendship
+7. Utwórz skrypt, który zapyta u¿ytkownika o tytu³ ksi¹¿ki, nazwisko autora, liczbê stron, a nastêpnie:
+    SprawdŸ czy tytu³ i nazwisko sk³adaj¹ siê tylko z liter, natomiast liczba stron jest wartoœci¹ liczbow¹.
+    U¿ytkownicy bywaj¹ leniwi. Nie zawsze zapisuj¹ tytu³y i nazwisko z du¿ej litery – popraw ich
+    Po³¹cz dane w jeden ci¹g book za pomoc¹ spacji
+    Policz liczbê wszystkich znaków w napisie book
+8. Palindrom to wyra¿enie brzmi¹ce tak samo czytane od lewej do prawej i od prawej do lewej np.: Koby³a ma ma³y bok. Pozwól u¿ytkownikowi wprowadziæ dowolne zdanie. Nastêpnie sprawdŸ czy wprowadzone wyra¿enie jest palindromem.
+9. Przekopiuj zawartoœæ import this do zmiennej.
+    Policz liczbê wyst¹pieñ s³owa better.
+    Usuñ z tekstu symbol gwiazdki
+    Zamieñ jedno wyst¹pienie explain na understand
+    Usuñ spacje i po³¹cz wszystkie s³owa myœlnikiem
+    Podziel tekst na osobne zdania za pomoc¹ kropki
+10. Stwórz dwie dowolne zmienne przechowuj¹ce wartoœæ liczbow¹ i tekstow¹. U¿yj funkcji format(), by wyœwietliæ zdanie zawieraj¹ce te wartoœci.
+
