@@ -1,0 +1,11 @@
+x1.  Utwórz plik na pulpicie zawieraj¹cy listê ok. 20 cytatów. Ka¿dy cytat powinen siê znaleŸæ w nowej linii. Utwórz funkcjê, która losuje i wyœwietla w sposób ciekawy cytat na dziœ.
+	zmodyfikuj plik Ÿród³owy, tak aby u¿ytkownik móg³ podaæ w³asn¹ nazwê pliku z cytatami
+	plik z cytatami powinen równie¿ zawieraæ informacjê o autorze, wyœwietl cytat i pod spodem autora
+2. Zapoznaj siê z modu³em os. SprawdŸ rozmiar utworzonego przez siebie pliku.
+3. Wyœwietl tylko 5 pierwszych linii
+4. Wyœwietl 3 losowe cytaty
+x5. Wykorzystaj plik zawieraj¹cy fragment Pana Tadeusza. ZnajdŸ najd³u¿sze s³owo wystêpuj¹ce w zadanym fragmencie.
+6. Rozpoznawanie kart. Utwórz plik zawieraj¹cy numery kart kredytowych. SprawdŸ dla ka¿dej kart jej typ. Podziel kart do plików wg typów np. visa.txt, mastercard.txt, americanexpress.txt.
+x7. Wisielec. Utwórz plik zawieraj¹cy listê s³ów wg. kategorii np. zwierzêta, owoce etc. Poproœ u¿ytkownika o podanie kategorii przed rozpoczêciemy gry. Nastêpny wczytaj listê hase³ do programu, wylosuj jedno has³o z listy. Rozgrywka powinna byæ maksymalnie intuicyjna.
+x8. Utwórz generator dowolnego typu np. generator zdañ, tweetów czy konferencji. Dane wejœciowe pobierz z pliku csv (plik csv mo¿esz traktowaæ jako plik txt ze znanym znakiem podzia³u), który bêdzie przechowywa³ dane potrzebne do generowania.
+x9. Korzystaj¹c z Google dowiedz siê wiêcej o kodowaniu ASCII. Utwórz plik, który tworzy prost¹ zaszyfrowan¹ wiadomoœæ. Ka¿d¹ literê tekstu zapisuje za pomoc¹ dziesiêtnych wartoœci kodów ASCII. Przyk³adowo literze A odpowiada numer 65. Zapoznaj siê z metodami ord() oraz char(). Pamiêtaj o dodaniu znaku podzia³u. Utwórz drugi skrypt, który rozszyfruje wiadomoœæ.
