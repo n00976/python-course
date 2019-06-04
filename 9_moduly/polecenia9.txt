@@ -1,0 +1,16 @@
+1. Stwórz modu³, który bêdzie przechowywa³ funkcjê obliczaj¹c¹ bmi.py. Zaimportuj module do pliku fitmeter.py. Nowy plik bêdzie informowa³ u¿ytkownika o jego aktualnym BMI i na podstawie wyniku (niedowaga, nadwaga, oty³oœæ) sugerowa³ zmiany w stylu ¿ycia pobierane z odpowiedniego pliku.
+2. Stwórz modu³, który przechowuje wzór na deltê. Skorzystaj z wbudowanego modu³u math. W nowym pliku wykorzystaj modu³.
+3. Stwórz modu³, który zajmuje siê jedynie otwieraniem plików - oferuje bezpieczny sposób odczytu oraz bezpieczny zapis. Funkcja czytaj¹ca pliki sprawdza najpierw czy dany plik istnieje oraz czy jest niepusty. Funkcja zapisuj¹ca do pliku chroni przed nadpisaniem istniej¹cego pliku.
+4.  Zmodyfikuj swoj¹ grê wisielec tak, aby w dowolny uzasadniony sposób wykorzystaæ modu³ lub modu³y.
+5. Stwórz modu³ obliczaj¹cy pola ró¿nych figur. W nowym pliku utwórz skrypt, który na podstawie podanych sk³adowych kszta³tów pomieszczeñ oraz ich wymiarów zwraca powierzchniê budynku.
+6. Stwórz program, który dla dowolnego ci¹gu znajduje najd³u¿sz¹ sekwencjê takich samych znaków oraz jej d³ugoœæ np.
+
+Wejœcie:
+    var = ‘banannnnannnnnnnnnanananananaaaana’
+Wyjœcie
+    ‘nnnnnnnnn’, 9
+
+7.Utwórz generator instancji testowych, który wygeneruje losowe ci¹gi znaków sk³adaj¹ce siê z jedynie z cyfr od 0-9. Upewnij siê, ¿e conajmniej 2 takie same znaki znajd¹ siê w sekwencji.
+    Zmodyfikuj generator tak, by oczekiwa³ znaków podanych przez u¿ytkownika np. u¿ytkownik podaje 4 znaki: ‘a’, ‘b’, ‘c’, ‘*’.
+    Zaimportuj generator bezpoœrednio do programu.
+8. Stwórz modu³, który dla dowolnej wartoœci n, zwróci ci¹g fibonnaciego.
