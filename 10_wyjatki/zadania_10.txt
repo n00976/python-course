@@ -1,0 +1,26 @@
+1. Stwórz listê sk³adaj¹c¹ siê z kilku elementów ró¿nego typu. W pêtli spróbuj wykonaæ dzielenie 10 przez wartoœæ z listy. Z³ap wyj¹tki jakie mog¹ siê przy tej okazji wydarzyæ.
+x2. Utwórz dowoln¹ krotkê zawieraj¹c¹ kilka wartoœci np. 10. Pozwól u¿ytkownikowi podaæ dowolny index oraz wartoœæ. Spróbuj w krotce podmieniæ wartoœæ na zadanym indeksie. Obs³u¿ b³¹d
+3. Stwórz listê 10 elementow¹ (ró¿ne typy!). Pozwól u¿ytkownikowi podaæ dowolny index. Podziel 1 przez liczbê pod indexem wybranym przez u¿ytkownika. Obs³u¿ b³êdy.
+x4.  Oblicz œredni¹ arymetyczn¹ z kilku liczb. Liczby bêd¹ podane przez u¿ytkownika po przecinku. Napisz funkcjê, która przyjmie wartoœci i wyœwietli œredni¹. Program powinen byæ odporny na b³êdy u¿ytkownika.
+5. W kodzie BMI ufamy, ¿e u¿ytkownik podaje wartoœæ w kilogramach lub w metrach i rzutujemy do float. Co jeœli u¿ytkownik poda wartoœæ 60 kg ? Zmodyfikuj kod z ostatnich zajêæ tak, aby wykluczyæ powy¿szy przypadek.
+x6.  Wywo³aj b³¹d zwi¹zany z otwarciem pliku.
+    Spróbuj odczytaæ plik, który nie istnieje.
+    Spróbuj odczytaæ wartoœæ z pliku otwartym w trybie w
+    Spróbuj utworzyæ plik, który ju¿ istnieje w trybie x
+Obs³u¿ w dowolny sposób ka¿dy z powy¿szych b³êdów.
+7. Wróæ do pierwszego zadania z lekcji o plikach, zmodyfikuj go tak, aby to u¿ytkownik podawa³ nazwê pliku z cytatami. Pamiêtaj, by u¿ytkownik po wykonaniu b³êdnej akcji (np. literówki w nazwie pliku) mia³ mo¿liwoœæ poprawiæ swój b³¹d.
+x8. Wybierz zadanie z wszystkich zadañ kursowych, które wg Ciebie jest twoim najbardziej imponuj¹cym kodem napisanym do tej pory. Popraw ten kod zgodnie z tym czego siê do tej pory nauczy³eœ.
+x9. SprawdŸ jak wygl¹da kod modu³u antigravity. Korzystaj¹c z tego samego sposobu otwarcia dowolnego url pozwól u¿ytkownikowi podaæ adres www.
+Pamiêtaj sprawdziæ czy url jest prawid³owy mo¿e zaczynaæ siê:
+
+    https://
+    http://
+    www
+    bez www
+
+Mo¿e siê koñczyæ za pomoc¹:
+
+    .pl
+    .com
+
+Jeœli podany adres nie jest linkiem, podnieœ wyj¹tek URLError, który bêdzie informowa³, ¿e url jest nieprawid³owy.
