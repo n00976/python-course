@@ -1,0 +1,31 @@
+1. Korzystaj¹c z dowolnej metody reprezentacji grafu zapisaæ istniej¹ce po³¹czenia pomiêdzy budynkami.
+2. Wyœwietl wszystkie krawêdzie parami, podzielone za pomoc¹ ---
+3. ZnajdŸ najwiêksza wspólny dzielnik (NWD) dwóch liczby. Wykorzystaj algorytm Euklidesa.
+4. Napisz kod, który zwraca sumê wszystkich wielokrotnoœci 5 lub 7 poni¿ej liczby N. Na przyk³ad dla 21 mamy: 5, 7, 10, 14, 15, 20, st¹d wynik 71
+5. Przypomnij sobie szkolny wzór na silniê. Zapisz funkcjê silnia iteracyjnie np. pêtl¹ for, a nastêpnie analogiczn¹ funkcjê tylko, ¿e rekurencyjnie.
+6. Napisz funkcjê przeszukiwania po³ówkowego (binarenego), która przyjmuje dwa parametry - szukany element oraz listê elementów. Zwraca informacjê czy element jest obecny na liœcie, albo nie.
+Wejœcie:
+data = [3, 15, 45, 2, 6, 12, 44, 34, 21, 56, 7, 3, 12]
+elem = 21
+Wyjœcie:
+    “Number 21 is on the list”
+7. Dysponuj¹c list¹ nazwisk uczestników uporz¹dkuj j¹ leksykograficznie (alfabetycznie).
+Wejœcie:
+    W pierwszym wierszu standardowego wejœcia zapisano liczbê nazwisk N(1<= N <= 200). W nastêpnych N wierszach zapisano po jednym nazwisku. Nazwisko rozpoczyna wielk¹ litera, jego d³ugoœæ nie przekracza 50 znaków, i sk³ada siê tylko z liter alfabetu angielskiego.
+    np.
+4
+Lipski
+Kowal
+Adamiak
+Wojtczak
+
+Wyjœcie :
+    W kolejnych wierszach wypisz nazwiska uczestników uporz¹dkowane alfabetycznie.
+Adamiak
+Kowal
+Lipski
+Wojtczak
+8. Poznaj trójk¹t Pascala. Napisz kod, który wyœwietla trójk¹t Pascala dla podanego N.
+9. Zaimplementuj w Pythonie algorytm Dijkstry.
+10. Poznaj problem plecakowy (Knapsack Problem). Przyk³adowe zadanie: https://www.flynerd.pl/2019/02/tlusty-python-z-paczkami-i-algorytmami.html
+
