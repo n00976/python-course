@@ -1,0 +1,50 @@
+If, elif, else:
+zad1 - SprawdŸ, czy liczba podana przez u¿ytkownika jest podzielna przez 3 bez reszty
+zad2 - Pobierz dwie wartoœci int od u¿ytkownika i oblicz ich sumê. Jeœli suma jest wiêksza ni¿ 100, wyœwietl ich sumê.
+zad3 - Stwórz skrypt, który przyjmuje 3 opinie u¿ytkownika o ksi¹¿ce. Oblicz œredni¹ opiniê o ksi¹¿ce. W zale¿noœci od wyniku dodaj komunikaty. Jeœli uzytkownik oceni³ ksi¹¿kê na ponad 7 - bardzo dobry, ocena 5-7 przeciêtna, 4 i mniej - nie warta uwagi.
+zad4 - Utwórz zmienn¹ przechowuj¹c¹ dowolny ci¹g znaków. SprawdŸ czy string jest d³u¿szy od 5 oraz czy zawiera literê a. Jeœli zawiera, wszystkie litery a podmieñ na z.
+xzad5 - Stwórz zmienn¹ password. Has³o powinno sk³adaæ z liter i cyfr, zwieraæ conajmniej 1 du¿¹ literê i mieæ d³ugoœæ conajmniej 8 znaków.
+zad6 - Zapytaj u¿ytkownika o numer od 1 do 100, jeœli u¿ytkownik zgadnie liczbê ukryt¹ przez programistê wyœwietl komunikat “gratulacje!”, w przeciwnym razie “pud³o!”.
+zad7 - Rozwiñ kod bmi.py z pierwszych zajêæ dodaj¹c teraz instrukcjê warunkow¹, która wyœwietli w zale¿noœci od wyniku: niedowaga / waga normalna / nadwaga / oty³oœæ.
+zad8 - Sortowanie. Trzy dowolne liczby podane przez u¿ytkownika zapisz do trzech zmiennych. ZnajdŸ najwiêksz¹ liczbê. Wyœwietl liczby od najwiêkszej do najmniejszej.
+pêtla for:
+zad9 - Stwórz listê przedmiotów, które zabierzesz na bezludn¹ wyspê. Wyœwietl nazwê w³aœnie spakowanego przedmiotu, dla po ostatnim przedmiocie poka¿ informacjê: “Great, we are ready!”
+zad10 - Utwórz listê, która zawiera sk³adniki na ulubione danie. Wyœwietl komunikaty co nale¿y pokolei dodaæ. Poza pêtl¹ umieœæ pozosta³e instrukcje np. “Wrzuæ do pierkanika”, “Podawaj sch³odzone”.
+zad11 - Napisz program, który dla 10 kolejnych liczb naturalnych wyœwietli sumê poprzedników. Oczekiwany wynik: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55
+zad12 - Napisz program, który wyœwietli kolejne wyniki dla silnii liczby naturalnej n.
+Pêtla while:
+zad13 - Napisz program zmieniaj¹cy skalê w stopniach Fahrenheita na nasz Celcjusza. Program powinen wykonaæ siê w pêtli od 0 do 200 stopni Fahrenheit, co 20 stopni.
+
+    C = 5/9 * (F - 32) # wzór Celsjusz › Fahrenheit
+
+zad14 - Napisz grê, w której u¿ytkownik musi zgadn¹æ liczbê od 0 - 20 (np. secret_num = 5). Pytaj u¿ytkownika o podanie liczby tak d³ugo, a¿ nie zgadnie.
+Zadanka ogólne:
+zad15 - Pozwól u¿ytkownikowi wprowadziæ dowoln¹ liczbê imion ci¹giem (np.jako jeden string rozdzielonych przecinkiem lub bia³ym znakiem). Nastêpnie powitaj ka¿d¹ osobê na liœcie.
+zad16 - Pobierz od u¿ytkownika dowolny tekst i wyœwietl tylko te znaki, które s¹ na pozycjach parzystych. Wykonaj na dwa sposoby - za pomoc¹ pêtli oraz przez sting slicing ( ‘abrakadabra’ -> ‘baaar’).
+xzad17 - W podanym przez u¿ytkownika ci¹gu wejœciowym policz wszystkie ma³e litery, wielkie litery, cyfry i znaki specjalne.
+zad18 - Napisz grê - kamieñ (k) / papier (p) / no¿yce (n).
+
+        U¿ytkonik podaje jedn¹ z 3 figur
+
+        Komputer losuje jedn¹ z 3 figur*
+
+        SprawdŸ kto wygra³ tê rundê
+
+        Zmieñ kod tak, by u¿ytkownik móg³ podac liczbê rund.
+
+        Wygrana jest podawana komputer vs u¿ytkownik.
+
+        Zmieñ tak, by gracz móg³ zakoñczyæ grê w dowolnej chwili przez np. has³o ‘koniec’
+
+xzad19 - Stwórz grê ciep³o zimno.
+
+        Komputer losuje liczbê z zakresu od 1 do 100.
+
+        U¿ytkownik podaje swój traf.
+
+        Komuter odpowiada ciep³o zimno, ale nie wiêcej ni¿ 6 razy.
+
+        Jeœli u¿ytkownik zgadnie wygrywa gracz.
+
+        Jeœli po 6 próbach u¿ytkonik nie zgadnie - wygrywa komputer.
+
