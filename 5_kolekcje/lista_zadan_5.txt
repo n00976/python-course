@@ -1,0 +1,65 @@
+1. Stwórz listê przedmiotów, które zabierzesz na samotn¹ wyprawê w góry. Elementy na liœcie posortuj alfabetycznie, a nastêpnie wyœwietl.
+2. Pobierz od u¿ytkownika 10 liczb, wyœwietl tylko te, które s¹ nieparzyste.
+3. Dla podanej przez u¿ytkownika liœcie liczb ca³kowitych sprawdŸ czy pierwszy i ostatni element s¹ takie same.
+4. Pobierz od u¿ytkownika parzyst¹ listê elementów. SprawdŸ czy 2 œrodkowe elementy s¹ takie same.
+5. twórz “na sztywno” 2-wymiarow¹ tablicê, tak, by kolejne wiersze zawiera³y dane osób, natomiast w kolumnach bêdzie znajdowaæ siê imiê, nazwisko, zawód, np:
+	Dorota, Wellman, dziennikarka
+	Adam, Ma³ysz, sportowiec
+	Robert, Lewandowski, pi³karz
+	Krystyna, Janda, aktorka
+6. Utwórz dowoln¹ krotkê, w której elementy mog¹ siê powtarzaæ. Przekszta³æ j¹ w set.
+7. Utwórz listê L_test = [1, 2, 3, 4], krotkê T_test = (1, 2, 3, 4) oraz set S_test = {1, 2, 3, 4}. Jakie metody dostêpne dla typu list nie bêd¹ dzia³aæ dla typów tuple i set?
+8. Utwórz 2 krotki. Nastêpnie utwórz listê bêd¹c¹ po³¹czeniem elementów o parzystym indeksie z pierwszej krotki, a oraz nieparzystych elementów z drugiej.
+9. Napisz skrypt, który podan¹ listê podzieli na 3 równe listy i odwraca ka¿d¹ z tych.
+
+    input: [1, 2, 3, 4, 11, 12, 13, 14, 21, 22, 23, 24]
+
+    output:
+
+    [4, 3, 2, 1]
+    [14, 13, 12, 11]
+    [24, 23, 22, 21]
+
+10. Porównaj zachowanie discard() vs remove() dla typu set.
+11. Utwórz listê lists_to_dict zawieraj¹c¹ listy 2 elementowe. Przekszta³æ j¹ w s³ownik dict_from_list.
+12. Utwórz listê lub krotkê tuples_to_dict zawieraj¹c¹ krotki 2 elementowe. Przekszta³æ j¹ w s³ownik dict_from_tuples.
+13. Utwórz dowoln¹ tablicê n x n zawieraj¹c¹ dowolny znak, a nastêpnie wyœwietl jej elementy w formie tabeli n x n. Elementy powinny byæ oddzielone spacj¹
+
+    wejœcie:
+
+	n = 3
+
+	tab = [['-', '-', '-']
+ 	 ['-', '-', '-'],
+ 	 ['-', '-', '-']]
+
+   	 wyjœcie:
+
+	- - -
+	- - -
+	- - -
+14. Utworz tabliczkê mno¿enia jako zagnie¿d¿on¹ listê o rozmiarze 10 x 10, wype³nion¹ wynikami mno¿enia wiersz × kolumna.
+15. W wierszu policz wyst¹pienie ka¿dego wyrazu, zignoruj wielkoœæ liter.
+
+	"""Szybko, zbudŸ siê, szybko, wstawaj
+	Szybko, szybko, stygnie kawa
+	Szybko, zêby myj i rêce"""
+
+	Zadbaj o sposób wyœwietlania np.:
+
+ 	 szybko : 5
+   	 zbudŸ : 1
+16. Utwórz listê zawieraj¹c¹ wartoœci s³ownika, bez duplikatów.
+	>>> days = {'Jan': 31, 'Feb': 28, 'Mar': 31, 'Apr': 30, 'May': 31, 'Jun': 30, 'Jul': 31, 'Aug': 31, 'Sept': 30}
+17. Usuñ duplikat z podanej list i utwórz na jej bazie krotkê. ZnajdŸ minimaln¹ i maksymaln¹ liczbê w krotce.
+	example_list = [34, 17, 25, 41, 12, 194, 41, 3, 12, 99, 94]
+18. S³owniki dla 10 krajów Europy utwórz listy 10 najpopularniejszych imion ¿eñskich. Za ka¿dym razem zapisz imiona w wersji anglojêzycznej. Dodaj wszystki listy razem. Nowa lista powinna zawieraæ 100 elementów.
+	Wyœwietl tylko te imiona, które wyst¹pi³y conajmniej w 3 krajach.
+19. 5 u¿ytkowników poproœ o podanie 4 przedmiotów szkolnych, sprawdŸ czy przedmioty powtarzaj¹ siê na listach. Wyœwietl najpopularniejszy przedmiot. (Uwzglêdnij fakt, ¿e u¿ytkownicy mog¹ zapisaæ przedmioty ma³ymi, drukowanymi lub zaczynaj¹c od du¿ej litery)
+20. U¿ytkownik podaje dowoln¹ liczbê N. Napisz, który wygeneruje s³ownik, wg zasady, ¿e ka¿dej liczbie przyporz¹dkowany jest jej kwadrat (n : n * n).
+
+	Za³ó¿my, ¿e u¿ytkownik poda³ N = 8
+	Wynik: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+
+
+
