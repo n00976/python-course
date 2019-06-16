@@ -1,0 +1,18 @@
+1. Skorzystaj z wprowadzenia do OOP. Stwórz klasê Pies, która posiada wspomniane atrybuty oraz metodê.
+        atrybuty: imiê, kolor sierœci, rasê
+        metody: szczekaj, machaj ogonem
+Utwórz kilka obiektów klasy Pies z ró¿nymi parametrami.
+2. Utwórz klasê dla storczyków. Storczyki z zasady maj¹ ró¿ne kolory, pory kwitnienia, gatunki. Utwórz dowolne atrybuty i metody. Dodaj atrybut wspólny dla wszystkich storczyków - królestwo roœlin.
+Utwórz kilka storczyków z ró¿nymi parametrami.
+3. Stwórz w³asn¹ implementacjê kolejki FIFO. Klasa kolejka (Queue) powinna na starcie przyjmowaæ listê elementów. Wœród metod powinny siê znaleŸæ takie jak: wyswietlenie kolejki, sprawdzenie czy jest pusta, dodanie elementu do kolejki (put), wyjêcie elementu z kolejki (get).
+Utwórz kilka obiektów klasy Queue z ró¿nymi parametrami.
+x4. Pomyœl co sprawia, ¿e ssak jest ssakiem? Utwórz klasê ssaki. Stwórz kilka obiektów klasy ssaki np. wilk, koñ, ssaki.
+x5. Utwórz klasê sklep. Sklep posiada ró¿ne produkty. W sklepie mo¿na pordukt zobaczyc, przymierzyc, kupic, zwrocic.
+x6. Utwórz klasê Pracownik.
+    Pracownik ma stanowisko, wynagrodzenie, imie, nazwisko, staz pracy.
+    Pracownik powinen miec roczne podwy¿ki wg. dowolnie wymyœlonego sposobu liczenia. Pracownik powinen odprowadzaæ podatek o wysokoci zale¿nej od swoich zarobków oraz minimaln¹ sk³adkê zdrowotn¹.
+    Pracownik powinien mieæ pole typu boolowskiego zawieraj¹ce status studenta. Jeœli pracownik jest studentem jego sk³adka zdrowotna wynosi 0%.
+    Wszyscy pracownicy maj¹ wspóln¹ nazwê firmy. Spó³g³oski imienia i nazwiska wraz z nazw¹ firmy .com tworz¹ adres mailowy. Np.
+    Adam Kowalski Love Python Company
+    email -> smkwlsk@lovepythoncompany.com
+
