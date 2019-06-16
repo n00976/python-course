@@ -1,0 +1,43 @@
+1. Napisaæ funkcjê, która oblicza pole ko³a na podstawie zadanego promienia.
+2. Napisaæ funkcjê, która sprawdza czy liczba jest parzysta.
+3. Napisaæ funkcjê, która przyjmuje listê liczb i zwraca sumê wszystki elementów na liœcie.
+4. Napisaæ funkcjê, która wypisze wszystkie parzyste z przekazanej listy elementów (wykorzystaæ funkcje z pkt 2)
+5. Skorzystaj ze swojego kodu bmi.py. Rozbij liczenie bmi na funkcjê obliczaj¹c¹ bmi na podstawie danych u¿ytkownika oraz zwracaj¹c¹ odpowiedni¹ wartoœæ (niedowaga, waga normalna, nadwaga, oty³oœæ) w zale¿noœci od otrzymanego parametru.
+6. Nie korzystaj¹c z funkcji wbudowanej min(), napisz funkcjê znajduj¹c¹ minimaln¹ wartoœæ z 3 liczb. minimum_of(a, b, c).
+7. Nie korzystaj¹c z funkcji wbudowanej max(), napisz funkcjê znajduj¹c¹ maksymaln¹ wartoœæ z 3 liczb. maximum_of(a, b, c).
+8. Napisz funkcjê, która sprawdzi, czy liczba wystêpuje w podanym przez u¿ytkownika zakresie. Powinna zwróciæ komunikat: “tak, liczba x znajduje siê w zadanym zakresie”, “nie, liczba x jest z poza zakresu”.
+
+9. Napisz grê ciep³o - zimno tak, aby korzystaæ z funkcji.
+10. Napisz grê kamieñ-papier-no¿yce tak, aby korzystaæ z funkcji.
+11. Napisz program, który na podstawie numeru karty odpowie czy ma doczynienia z Vis¹, MasterCard, a mo¿e AmericanExpress.
+Co wiemy o tych numerach tych kart?
+    All Visa card numbers start with a 4. New cards have 16 digits. Old cards have 13.
+    MasterCard numbers either start with the numbers 51 through 55 or with the numbers 2221 through 2720. All have 16 digits.
+    American Express card numbers start with 34 or 37 and have 15 digits.
+12. Napisz program, który bêdzie sprawdza³, czy nasz samochód kwalifikuje siê do zarejestrowania jako zabytek.
+
+    Program zacznie ze stworzonym s³ownikiem o trzech kluczach:
+            marka (str)
+            model (str)
+            rocznik (int)
+
+    Wypisze ten s³ownik na ekran (bez ¿adnego formatowania)
+    Sprawdzi, czy samochód ma minimum 25 lat. Jeœli tak, wypisze komunikat:
+        “Gratulacje! Twój samochód (tutaj_marka) mo¿e byæ zarejestrowany jako zabytek.”
+    Jeœli nie spe³nia powy¿szego warunku, wypisze komunikat:
+        “Twój samochód (tutaj_marka) jest jeszcze zbyt m³ody.”
+    Gdy program bêdzie poprawnie dzia³a³, pozmieniaj wartoœci s³ownika (ale nie klucze!), aby zobaczyæ, czy progam równie¿ zmienia swoje zachowanie.
+13. Kolejnym warunkiem, aby dostaæ “¿ó³te tablice”, jest to, aby samochód posiada³ co najmniej 75% oryginalnych czêœci. W naszym zadaniu zak³adamy, ¿e rzeczoznawca okreœli³ jego oryginalnoœæ w kategorii tak/nie.
+    Poni¿ej stworzenia i wyœwietlenia s³ownika w zadaniu powy¿ej:
+            dopisz do s³ownika nowy klucz czy_oryginalny i ustaw jego wartoœæ (typ: bool) wedle uznania.
+            ponownie wyœwietl zmieniony s³ownik
+    Zmodyfikuj program tak, aby uwzglêdni³ decyzjê o mo¿liwoœci zarejestrowania samochodu równie¿ od jego oryginalnoœci. Dopisz odpowiednie komunikaty.
+14. Stwórz grê wisielec “bez wisielca”.
+    Komputer losuje wyraz z dostêpnej w programie listy wyrazów.
+    Wyœwietla zamaskowany wyraz z widoczn¹ liczb¹ znaków (np. ‘- - - - - - -‘)
+    U¿ykownik podaje literê.
+    SprawdŸ, czy litera istnieje w wyrazie. Jeœli tak, wyœwietl mu komunikat:
+            “Trafione!” oraz napis ze znanymi literami.
+    W przeciwnym wpadku poka¿ komunikat:
+            “Nie trafione, spróbuj jeszcze raz!”.
+    Mo¿esz ograniczyæ liczbê prób do np. 10.
