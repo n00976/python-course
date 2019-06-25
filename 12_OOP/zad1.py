@@ -18,7 +18,7 @@ def main():
     pies1 = Dog('Burek', 'czarny', 'mops')
     pies2 = Dog('Legolas', 'kremowy', 'chart')
 
-    pies1.howl()
+    pies2.howl()
 
 if __name__ == "__main__":
     print('Plik uruchomiony bezpośrednio')
