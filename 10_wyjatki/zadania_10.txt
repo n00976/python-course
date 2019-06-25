@@ -10,7 +10,7 @@ x6.  Wywo³aj b³¹d zwi¹zany z otwarciem pliku.
 Obs³u¿ w dowolny sposób ka¿dy z powy¿szych b³êdów.
 7. Wróæ do pierwszego zadania z lekcji o plikach, zmodyfikuj go tak, aby to u¿ytkownik podawa³ nazwê pliku z cytatami. Pamiêtaj, by u¿ytkownik po wykonaniu b³êdnej akcji (np. literówki w nazwie pliku) mia³ mo¿liwoœæ poprawiæ swój b³¹d.
 x8. Wybierz zadanie z wszystkich zadañ kursowych, które wg Ciebie jest twoim najbardziej imponuj¹cym kodem napisanym do tej pory. Popraw ten kod zgodnie z tym czego siê do tej pory nauczy³eœ.
-x9. SprawdŸ jak wygl¹da kod modu³u antigravity. Korzystaj¹c z tego samego sposobu otwarcia dowolnego url pozwól u¿ytkownikowi podaæ adres www.
+9. SprawdŸ jak wygl¹da kod modu³u antigravity. Korzystaj¹c z tego samego sposobu otwarcia dowolnego url pozwól u¿ytkownikowi podaæ adres www.
 Pamiêtaj sprawdziæ czy url jest prawid³owy mo¿e zaczynaæ siê:
 
     https://
